@@ -1,0 +1,28 @@
+{
+  "player": {
+    "name": "Aura Pup",
+    "max_hp": 50,
+    "attack": 12,
+    "defense": 3
+  },
+  "wild_creatures": [
+    {
+      "name": "Ember Imp",
+      "max_hp": 35,
+      "attack": 10,
+      "defense": 2
+    },
+    {
+      "name": "Moss Turtle",
+      "max_hp": 45,
+      "attack": 8,
+      "defense": 4
+    },
+    {
+      "name": "Moon Fox",
+      "max_hp": 38,
+      "attack": 11,
+      "defense": 2
+    }
+  ]
+}
